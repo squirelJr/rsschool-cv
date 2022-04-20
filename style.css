@@ -16,7 +16,6 @@ header{
 .img {
     width: 200px;
     height: 200px;
-    background-image: url(./assets/profile.jpg);
     border-radius: 50%;
     background-size: contain;    
 }
@@ -41,22 +40,41 @@ nav{
     width: 100%;
     color: white;
     justify-content:flex-end;
-    align-items: center;
     height: 5%;
     background-color:#0a293bc5;
     position: fixed;
     z-index: 5;
 }
+ul{
+    width: 100%;
+    height: 100%;
+    justify-content: flex-end;
+    align-items: center;
+    display: flex;
+}
 
-nav a{
+nav li{
+    display: inline-flex;
+    float: right;
+    text-align: center;
     margin-right: 4%;
-    color: white;
     text-decoration: none;
     z-index: 5;
+    padding: 5px;
    
 }
-nav a:hover, a:visited{
+nav a{
+    color: #f3efe6;
+}
+nav li:hover{
+    background-color: #f3efe650;
+    padding: 5px;
+    border-radius: 5px;
+}
+nav a:hover{
     text-decoration: underline;
+    color: aliceblue;
+  
 }
 .button-container{
     height: 70px;
@@ -212,4 +230,15 @@ footer{
     flex-direction: row;
     width: 40%;
     justify-content: space-around;
+}
+
+.button{
+    width: 130px;
+    padding: 5px 10px;
+    background-color: rgba(0, 0, 173, 0.932);
+    color: #f3efe6;
+    box-shadow: #0a293b 1px 2px 2px 1px;
+}
+.button:hover{
+    background-color: rgba(6, 6, 211, 0.925);
 }
