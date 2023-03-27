@@ -1,32 +1,58 @@
- #Resume  
- ##Personal information    
-Name, Last name: Davit Gozalishvili   
-Address: Georgia, Tbilisi, Gldani   
-Tel: +995 591411504   
-E-mail : gozalishvilidavit@gmail.com  
-  
+==========================================
+              DAVIT GOZALISHVILI
+==========================================
 
-##Education:   
-  
-*2020 - Bachelors degree in Business administration and Economics TSU (T bilisi state university)   
-*2013-2014 Exchange program „FLEX” (Future Leaders Exchange Program) Alumni (Indiana,US)   
-*2002 - 2014 Graduated from Vale N1 public school  
-*Working experience :   
-*2020-2021 - English & Mathematics teacher 
-*2014-2016 - Intern as an Youth worker at World Vision Tbilisi   
-*2014-2015 - Member of student’s/youth’s initiative group “Youth for ADP”   sponsored by World vision   
-*2015-2018 - Waiter at the restaurant “OLD METEKHI”   
-*2013-2014, 10-03, - Waiter at the restaurant „Bj Wingers” (United states)   
-##Certificates, Awards:   
-*2020 - Teaching Certificate in English (NAEC)   
-*2020 - BLOOMBERG education certificate. 
-*2016, 08. 21- 08. 27 - Councilor at BUILD camp(peace corps) 
-*2015 - Finalist of public speaking competition (English speaking union) 
+CONTACT INFORMATION:
+------------------------------------------
+Phone:        +995591411504
+Email:        gozalishvilidavit@gmail.com
+Address:      Tbilisi, Georgia
 
-##Skills : 
-*Computer skills: Microsoft offices, internet, Sony Vegas, JavaScript. 
-*Social skills ( communication, listening, tolerance, acceptance, teamworking, ) Good looking (that’s a joke) 
-*Languages :   
-*Georgian _ Native   
-*English _ fluent (speaking/writing)   
-*Russian _ good   
+SUMMARY:
+------------------------------------------
+Highly motivated .NET developer seeking new challenges and opportunities to contribute to company progress. Native English speaker with experience in .NET Framework and .NET Core, Razor pages, Rest API, Redis, IdentityServer4, microservices, SQL, Oracle, Angular, JavaScript, SignalR, and full development lifecycle. Holds a Bachelor's degree in Business Administration from Tbilisi State University and is currently pursuing an MBA at Illia State University.
+
+WORK EXPERIENCE:
+------------------------------------------
+Since 2021  Payunicard, Payment Service Provider
+            .NET Developer
+
+            Key projects:
+            - Wallet Application with complex financial functionality
+            - Rest API for payment service provider
+            - Integrated Redis, IdentityServer4, and safe secure CDN project
+            - Developed Admin Panel using Angular for one of the biggest malls in Tbilisi
+            - Worked with legacy code in .NET Framework, maintained and created a new layer on .NET Core for cross-platform use
+            - Microservices and SQL and Oracle databases
+            - Implemented Dapper and Entity Framework
+            - Collaborated with team members to write maintainable, clean code using SOLID principles
+            - Implemented database procedures and functions
+
+EDUCATION:
+------------------------------------------
+- MBA, Illia State University, 2021 (ongoing)
+- BBA, Tbilisi State University, 2018
+- Exchange Program: Flex program USA, 2013-2014
+
+COURSES:
+------------------------------------------
+- EPAM RsSchool Front-End Development
+- GITA C# Development with Azure
+
+SKILLS:
+------------------------------------------
+- .NET Framework and .NET Core
+- Razor pages
+- Rest API
+- Redis
+- IdentityServer4
+- Microservices
+- SQL and Oracle databases
+- Angular and JavaScript
+- SignalR
+- Dapper and Entity Framework
+- Full development lifecycle
+- Maintaining legacy code and creating new layers on .NET Core
+- Collaborating with team members to write maintainable, clean code using SOLID principles
+- Implementing database procedures and functions
+- Native English speaker
